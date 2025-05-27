@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Milan Sebastian
 
-<!--
-**Milanseban/Milanseban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate focused on building practical ML tools and automation systems.
 
-Here are some ideas to get you started:
+I enjoy working on:
+- Applied machine learning with explainability (Grad-CAM, CNN + Transformers)
+- Web automation and scripting for real-world workflows
+- Projects that simplify complex processes through clean engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+- [Chest X-ray Classifier](https://github.com/Milanseban/chest-xray-classifier): Hybrid deep learning system with Grad-CAM visualizations for disease detection
+- [Just Eat Glitch Scanner](https://github.com/Milanseban/justeat-glitch-scanner): Web automation tool to detect pricing anomalies on public menus
+
+Currently exploring lightweight deployment and more practical use cases in ML + automation.
+
+### 📫 Connect with me
+- [LinkedIn](www.linkedin.com/in/milan-sebastian-a76236251)
