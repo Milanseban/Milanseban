@@ -20,5 +20,6 @@ I enjoy working on:
 Currently exploring lightweight deployment and more practical use cases in ML + automation.
 
 ### 📫 Connect with me
-- [LinkedIn]([LinkedIn](https://www.linkedin.com/in/milan-sebastian-a76236251)
-)
+
+- [LinkedIn](https://www.linkedin.com/in/milan-sebastian-a76236251)
+
